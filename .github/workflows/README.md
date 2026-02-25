@@ -1,8 +1,8 @@
-an infinite wave survival game built with HTML
+## an infinite wave survival game built with HTML
 
 WASD to move
 
-Shapes:
+## Shapes:
 
 Circle
 
